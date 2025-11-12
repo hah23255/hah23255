@@ -1,27 +1,27 @@
-# Hi, I'm Hassan 👋
+# Hi, I'm Hristo 👋
 
-## 🎯 Senior Software Engineer | AI/ML | Distributed Systems
+## 🎯 Senior Software Engineer | AI/ML | Security Research
 
-Specializing in enterprise-grade AI systems, safety-critical software, and high-performance distributed architectures.
+Specializing in AI safety systems, security research, high-performance distributed architectures, and GPU acceleration.
 
 ### 🚀 Featured Projects
 
-#### 🏭 Enterprise Systems
-- **[FACT](https://github.com/hah23255/FACT)** - RAG alternative with 90% cost savings | <50ms response time | 1,150+ lines of production code
-- **[quick-serve-enterprise](https://github.com/hah23255/quick-serve-enterprise)** - Enterprise-hardened HTTP server | Production-ready | Crash fixes & custom error pages
+#### 🛡️ Security & Safety Systems
 - **[silent-alarm-detector](https://github.com/hah23255/silent-alarm-detector)** - LLM safety patterns detector | Research-backed | 8 detection patterns
+- **[claude-hooks-security-research](https://github.com/hah23255/claude-hooks-security-research)** - Security research for Claude Code automation
+- **[claude-code-security-toolkit](https://github.com/hah23255/claude-code-security-toolkit)** - Security toolkit (coming soon - public release in progress)
 
-#### ⚡ Development Tools
-- **[Repository-Index](https://github.com/hah23255/Repository-Index)** - Curated project portfolio & documentation hub
-- **[marklite](https://github.com/hah23255/marklite)** - Lightweight markdown toolkit
-- **[claude-hooks-public](https://github.com/hah23255/claude-hooks-public)** - Claude Code automation hooks
+#### ⚡ Enterprise Systems
+- **[quick-serve-enterprise](https://github.com/hah23255/quick-serve-enterprise)** - Enterprise-hardened HTTP server | Production-ready | Crash fixes & custom error pages
+- **[MemorySystems](https://github.com/hah23255/MemorySystems)** - Advanced memory management systems
+- **[Repository-Index](https://github.com/hah23255/Repository-Index)** - Curated project portfolio | CUDA-WASM integration research
 
 ### 💼 Technical Stack
 
-**Languages**: Python 🐍 | Rust 🦀 | TypeScript 📘 | JavaScript ⚙️
-**AI/ML**: Claude API | Anthropic | OpenAI | Local LLMs | RAG Alternatives
-**Infrastructure**: Docker 🐳 | GitHub Actions | CI/CD Automation
-**Specialties**: Enterprise Architecture | Safety-Critical Systems | Performance Engineering
+**Languages**: Python 🐍 | Rust 🦀 | TypeScript 📘 | JavaScript ⚙️ | CUDA | WebAssembly
+**AI/ML**: Claude API | Anthropic | LLM Safety Research | Pattern Detection
+**Infrastructure**: Docker 🐳 | GitHub Actions | CI/CD Automation | GPU Acceleration
+**Specialties**: Security Research | AI Safety | Performance Engineering | CUDA-WASM Integration
 
 ### 📊 GitHub Stats
 
@@ -30,10 +30,10 @@ Specializing in enterprise-grade AI systems, safety-critical software, and high-
 
 ### 🎯 What I'm Working On
 
-- 🔬 Advanced AI context management systems (FACT)
-- 🛡️ LLM safety and security pattern detection
-- ⚡ High-performance distributed systems
-- 📚 Enterprise software architecture & compliance
+- 🛡️ LLM safety and security pattern detection research
+- ⚡ GPU-accelerated systems (CUDA-WASM integration)
+- 🔒 Security toolkits for AI development environments
+- 💾 Advanced memory systems and distributed architectures
 
 ### 📫 Connect With Me
 
