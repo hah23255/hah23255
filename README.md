@@ -31,24 +31,6 @@ Specializing in **building automation systems**, **MEP engineering**, **digital 
 **Infrastructure**: Docker 🐳 | Containers | Cloud | GitHub Actions | CI/CD
 **Engineering**: BIM | DFMA/MMC | Data Centre Infrastructure | Electrical Design | Project Commissioning
 
-### 🏆 Professional Achievements
-
-- **£10B+ Portfolio**: Led MEP systems integration for multi-billion pound infrastructure programmes
-- **Innovation Leadership**: Pioneered DFMA methodologies achieving 30% programme acceleration, 45% workforce optimization
-- **5G Innovation**: Deployed UK's first residential 5G in-building cellular network
-- **Digital Transformation**: Implementing AI/ML tools across construction and engineering workflows
-- **International Experience**: UK, Netherlands, Middle East (Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, UAE)
-
-### 🎓 Qualifications & Certifications
-
-- **CEng EUR ING** - Chartered Engineer & European Engineer
-- **AI Adoption** - SoftUni AI (2025)
-- **Prompt Engineering & AI Tools** - SoftUni AI (2025)
-- **Vibe Coding Basics** - SoftUni AI (2025)
-- **AI Tools for Developers** - Software University (2025)
-- **Containers and Cloud** - Software University (2025)
-- **BIM Certifications** - Autodesk Model Coordination, AutoSpecs, Clashes & Issues
-
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hah23255&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
