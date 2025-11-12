@@ -1,6 +1,6 @@
 # Hi, I'm Hristo 👋
 
-## 🎯 Automation & Controls Building Services | Embedded Devices Enthusiast
+## 🎯 Automation & Controls Building Services Engineer | Embedded Devices Researcher
 
 Specializing in building automation systems, control engineering, embedded devices, AI safety research, and GPU acceleration.
 
