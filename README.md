@@ -1,14 +1,8 @@
 # Hi, I'm Hristo 👋
 
-## 🎯 Engineering Director & Digital Transformation Leader | CEng EUR ING
+## 🎯 Automation & Controls Building Services | Embedded Devices Enthusiast
 
-**Co-Founder & CTO** at CCVS Tech | MEP Systems Innovation | AI/ML Integration in Construction | £10B+ Portfolio
-
-> *"Innovation drives progress, but it's consistency and predictability in people that sustain it. In engineering and construction management, these qualities are not just virtues — they're critical levers of scalable, resilient transformation."*
-
-### 🏗️ Professional Focus
-
-Specializing in **building automation systems**, **MEP engineering**, **digital transformation**, and **AI adoption in construction**. Experienced in leading multi-billion pound infrastructure programmes with focus on technical governance and systems integration.
+Specializing in building automation systems, control engineering, embedded devices, AI safety research, and GPU acceleration.
 
 ### 🚀 Featured Projects
 
