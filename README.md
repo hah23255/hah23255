@@ -4,6 +4,13 @@
 
 Specializing in building automation systems, control engineering, embedded devices, AI safety research, and GPU acceleration.
 
+### 📊 Portfolio Stats
+
+- **159** Public Repositories
+- **144** Active Forks (maintained ecosystem)
+- **4** Followers | **42** Following
+- **79** Forks recently updated (7-day activity)
+
 ### 🚀 Featured Projects
 
 #### 🛡️ Security & AI Safety Research
@@ -32,7 +39,7 @@ Specializing in building automation systems, control engineering, embedded devic
 
 ### 🎯 Current Focus
 
-- 🤖 AI/ML integration in construction and engineering workflows
+- �� AI/ML integration in construction and engineering workflows
 - 🛡️ LLM safety and security pattern detection research
 - ⚡ GPU-accelerated systems (CUDA-WASM integration)
 - 🏗️ Digital transformation strategies for building services
