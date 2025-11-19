@@ -15,6 +15,7 @@ Specializing in building automation systems, control engineering, embedded devic
 
 #### 🛡️ Security & AI Safety Research
 - **[claude-code-security-toolkit](https://github.com/hah23255/claude-code-security-toolkit)** - 🔒 Comprehensive security hardening for Claude Code CLI | Addresses 15 security gaps | Public release Nov 2025
+- **[security-vulnerabilities-cli-llm](https://github.com/hah23255/security-vulnerabilities-cli-llm)** - 📄 Security Vulnerabilities in CLI-Based LLM Deployments | Academic Research | 98% attack success | 95 sources | arXiv ready
 - **[silent-alarm-detector](https://github.com/hah23255/silent-alarm-detector)** - LLM safety patterns detector | Research-backed | 8 detection patterns
 - **[claude-hooks-security-research](https://github.com/hah23255/claude-hooks-security-research)** - Security research for Claude Code automation
 
