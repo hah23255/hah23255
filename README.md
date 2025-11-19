@@ -6,20 +6,20 @@ Specializing in building automation systems, control engineering, embedded devic
 
 ### 📊 Portfolio Stats
 
-- **159** Public Repositories
-- **144** Active Forks (maintained ecosystem)
+- **175** Public Repositories (30 original, 145 forks)
+- **145** Active Forks (maintained ecosystem)
 - **4** Followers | **42** Following
-- **79** Forks recently updated (7-day activity)
+- Recently refreshed & optimized portfolio
 
 ### 🚀 Featured Projects
 
 #### 🛡️ Security & AI Safety Research
+- **[claude-code-security-toolkit](https://github.com/hah23255/claude-code-security-toolkit)** - 🔒 Comprehensive security hardening for Claude Code CLI | Addresses 15 security gaps | Public release Nov 2025
 - **[silent-alarm-detector](https://github.com/hah23255/silent-alarm-detector)** - LLM safety patterns detector | Research-backed | 8 detection patterns
 - **[claude-hooks-security-research](https://github.com/hah23255/claude-hooks-security-research)** - Security research for Claude Code automation
-- **[claude-code-security-toolkit](https://github.com/hah23255/claude-code-security-toolkit)** - Security toolkit (public release in progress)
 
 #### ⚡ Engineering & Infrastructure
-- **[quick-serve-enterprise](https://github.com/hah23255/quick-serve-enterprise)** - Enterprise-hardened HTTP server | Production-ready | Crash fixes & custom error pages
+- **[quick-serve-enterprise](https://github.com/hah23255/quick-serve-enterprise)** - ⚠️ Archived | Enterprise-hardened HTTP server | Production-ready | Crash fixes & custom error pages
 - **[MemorySystems](https://github.com/hah23255/MemorySystems)** - Advanced memory management systems
 - **[Repository-Index](https://github.com/hah23255/Repository-Index)** - Project portfolio & documentation hub | CUDA-WASM integration research
 
@@ -39,12 +39,12 @@ Specializing in building automation systems, control engineering, embedded devic
 
 ### 🎯 Current Focus
 
-- �� AI/ML integration in construction and engineering workflows
+- 🤖 AI/ML integration in construction and engineering workflows
 - 🛡️ LLM safety and security pattern detection research
+- 🔒 Security toolkits for AI development environments (recently released!)
 - ⚡ GPU-accelerated systems (CUDA-WASM integration)
 - 🏗️ Digital transformation strategies for building services
 - 💾 Advanced memory systems and embedded device development
-- 🔒 Security toolkits for AI development environments
 
 ### 📫 Connect With Me
 
