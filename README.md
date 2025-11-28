@@ -6,10 +6,10 @@ Specializing in building automation systems, control engineering, embedded devic
 
 ### 📊 Portfolio Stats
 
-- **177** Public Repositories (32 original, 145 forks)
-- **145** Active Forks (maintained ecosystem)
-- **4** Followers | **42** Following
-- Recently refreshed & optimized portfolio
+- **178** Public Repositories (33 original, 145 forks)
+- **157** Synced Forks (100% of syncable repos)
+- **4** Followers | **43** Following
+- Fork ecosystem refreshed Nov 28, 2025
 
 ### 🚀 Featured Projects
 
@@ -24,9 +24,15 @@ Specializing in building automation systems, control engineering, embedded devic
 - **[aec-rag-system](https://github.com/hah23255/aec-rag-system)** - 🏢 Production-grade GraphRAG for AEC Design Management | 12 modules, 2,469 LOC | 7 entity types, 10 relationships | nano-graphrag + Llama-3.1-8B | Fully local (RTX A5000)
 
 #### ⚡ Engineering & Infrastructure
-- **[quick-serve-enterprise](https://github.com/hah23255/quick-serve-enterprise)** - ⚠️ Archived | Enterprise-hardened HTTP server | Production-ready | Crash fixes & custom error pages
+- **[quick-serve-enterprise](https://github.com/hah23255/quick-serve-enterprise)** - Enterprise-hardened HTTP server | Production-ready | Crash fixes & custom error pages
 - **[MemorySystems](https://github.com/hah23255/MemorySystems)** - Advanced memory management systems
 - **[Repository-Index](https://github.com/hah23255/Repository-Index)** - Project portfolio & documentation hub | CUDA-WASM integration research
+
+#### 🔄 n8n Workflow Automation
+- **[awesome-n8n-templates](https://github.com/hah23255/awesome-n8n-templates)** - 16K+ stars | 500+ curated workflow templates | Multi-platform integrations
+- **[n8n-ai-automations](https://github.com/hah23255/n8n-ai-automations)** - AI agents: Marketing, Dental, Gmail, Web Dev | Sora 2, Veo 3 video generation
+- **[waha-n8n-templates](https://github.com/hah23255/waha-n8n-templates)** - WhatsApp WAHA API automation | Chatbots, bulk messaging, CRM integration
+- **[n8n-Capability.md](https://github.com/hah23255/Repository-Index/blob/main/n8n-Capability.md)** - 2,100+ workflows documented | Full capability matrix
 
 ### 💼 Technical Expertise
 
@@ -47,9 +53,9 @@ Specializing in building automation systems, control engineering, embedded devic
 - 🤖 AI/ML integration in construction and engineering workflows (AEC RAG systems)
 - 🏗️ GraphRAG architecture for design management and version control
 - 🛡️ LLM safety and security pattern detection research
-- 🔒 Security toolkits for AI development environments (recently released!)
+- 🔒 Security toolkits for AI development environments
+- 🔄 n8n workflow automation (2,100+ templates, AI agents, video generation)
 - ⚡ GPU-accelerated systems (CUDA-WASM integration, local LLM inference)
-- 🏗️ Digital transformation strategies for building services
 - 💾 Advanced memory systems and embedded device development
 
 ### 📫 Connect With Me
