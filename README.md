@@ -1,96 +1,74 @@
-# Hristo Hristov
+# Hi, I'm Hristo 👋
 
-**CEng | EUR ING** — Chartered Engineer & European Engineer
+## 🎯 Automation & Controls Building Services Engineer | Embedded Devices Researcher
 
-> Building Services Automation · AI/Embedded Systems · GraphRAG · LLM Safety
-> Research
+Specializing in building automation systems, control engineering, embedded devices, AI safety research, and GPU acceleration.
 
-[![Website](https://img.shields.io/badge/ccvs.tech-000?style=flat&logo=safari&logoColor=white)](https://www.ccvs.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hristo-hristov-93868648)
-[![Location](https://img.shields.io/badge/London,_UK-gray?style=flat&logo=googlemaps&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Repository_Index-181717?style=flat&logo=github&logoColor=white)](https://github.com/hah23255/Repository-Index)
+### 📊 Portfolio Stats
 
----
+- **178** Public Repositories (33 original, 145 forks)
+- **157** Synced Forks (100% of syncable repos)
+- **4** Followers | **43** Following
+- Fork ecosystem refreshed Nov 28, 2025
 
-## Tech Stack
+### 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+#### 🛡️ Security & AI Safety Research
+- **[claude-code-security-toolkit](https://github.com/hah23255/claude-code-security-toolkit)** - 🔒 Comprehensive security hardening for Claude Code CLI | Addresses 15 security gaps | Public release Nov 2025
+- **[security-vulnerabilities-cli-llm](https://github.com/hah23255/security-vulnerabilities-cli-llm)** - 📄 Security Vulnerabilities in CLI-Based LLM Deployments | Academic Research | 98% attack success | 95 sources | arXiv ready
+- **[advanced-agentic-framework-aaf](https://github.com/hah23255/advanced-agentic-framework-aaf)** - 🤖 AAF v2.0 - Structured orchestration framework for specialized autonomous agents | 4-phase workflow
+- **[silent-alarm-detector](https://github.com/hah23255/silent-alarm-detector)** - LLM safety patterns detector | Research-backed | 8 detection patterns
+- **[claude-hooks-security-research](https://github.com/hah23255/claude-hooks-security-research)** - Security research for Claude Code automation
 
-![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat&logo=anthropic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+#### ��️ AEC & RAG Systems
+- **[aec-rag-system](https://github.com/hah23255/aec-rag-system)** - 🏢 Production-grade GraphRAG for AEC Design Management | 12 modules, 2,469 LOC | 7 entity types, 10 relationships | nano-graphrag + Llama-3.1-8B | Fully local (RTX A5000)
 
----
+#### ⚡ Engineering & Infrastructure
+- **[quick-serve-enterprise](https://github.com/hah23255/quick-serve-enterprise)** - Enterprise-hardened HTTP server | Production-ready | Crash fixes & custom error pages
+- **[MemorySystems](https://github.com/hah23255/MemorySystems)** - Advanced memory management systems
+- **[Repository-Index](https://github.com/hah23255/Repository-Index)** - Project portfolio & documentation hub | CUDA-WASM integration research
 
-## Original Work
+#### 🔄 n8n Workflow Automation
+- **[awesome-n8n-templates](https://github.com/hah23255/awesome-n8n-templates)** - 16K+ stars | 500+ curated workflow templates | Multi-platform integrations
+- **[n8n-ai-automations](https://github.com/hah23255/n8n-ai-automations)** - AI agents: Marketing, Dental, Gmail, Web Dev | Sora 2, Veo 3 video generation
+- **[waha-n8n-templates](https://github.com/hah23255/waha-n8n-templates)** - WhatsApp WAHA API automation | Chatbots, bulk messaging, CRM integration
+- **[n8n-Capability.md](https://github.com/hah23255/Repository-Index/blob/main/n8n-Capability.md)** - 2,100+ workflows documented | Full capability matrix
 
-### Production Systems
+### 💼 Technical Expertise
 
-| Project                                                                          | Description                                                      |
-| -------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [**adb-android-control**](https://github.com/hah23255/adb-android-control)       | Comprehensive Android device control via ADB for Claude Code     |
-| [**aec-rag-system**](https://github.com/hah23255/aec-rag-system)                 | Production-grade GraphRAG for AEC design management · 12 modules |
-| [**telegram-assistant-bot**](https://github.com/hah23255/telegram-assistant-bot) | Enterprise Telegram bot · NestJS + TypeScript                    |
-| [**quick-serve-enterprise**](https://github.com/hah23255/quick-serve-enterprise) | Enterprise HTTP server for Android/Termux · Rust                 |
+**Building Systems**: BACnet | Modbus | BMS | HVAC | MEP Integration | Control Systems
+**AI/ML Tools**: Cursor | Bolt | Claude | GitHub Copilot | n8n Automation | Prompt Engineering | GraphRAG | RAG Systems
+**Languages**: Python 🐍 | C/C++ ⚙️ | JavaScript 📘 | CUDA | WebAssembly
+**Embedded**: Microcontrollers | Real-time Systems | Firmware Development
+**Infrastructure**: Docker 🐳 | Containers | Cloud | GitHub Actions | CI/CD | Ollama
+**Engineering**: BIM | DFMA/MMC | Data Centre Infrastructure | Electrical Design | Project Commissioning
 
-### Security & AI Safety Research
+### 📊 GitHub Stats
 
-| Project                                                                                              | Description                                                  |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [**claude-hooks-security-research**](https://github.com/hah23255/claude-hooks-security-research)     | MCP replacement research · 100-150x faster, 90% less complex |
-| [**silent-alarm-detector**](https://github.com/hah23255/silent-alarm-detector)                       | LLM alarm-silencing pattern detection · 8 mechanisms         |
-| [**security-vulnerabilities-cli-llm**](https://github.com/hah23255/security-vulnerabilities-cli-llm) | Academic research · 95 sources · arXiv-ready                 |
-| [**advanced-agentic-framework-aaf**](https://github.com/hah23255/advanced-agentic-framework-aaf)     | AAF v2.0 · Autonomous agent orchestration                    |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hah23255&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hah23255&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
-### Tools & Utilities
+### 🎯 Current Focus
 
-| Project                                                                    | Description                                     |
-| -------------------------------------------------------------------------- | ----------------------------------------------- |
-| [**Repository-Index**](https://github.com/hah23255/Repository-Index)       | Portfolio index & documentation hub             |
-| [**claude-hooks-public**](https://github.com/hah23255/claude-hooks-public) | Production security hooks · Pydantic validation |
+- 🤖 AI/ML integration in construction and engineering workflows (AEC RAG systems)
+- 🏗️ GraphRAG architecture for design management and version control
+- 🛡️ LLM safety and security pattern detection research
+- 🔒 Security toolkits for AI development environments
+- 🔄 n8n workflow automation (2,100+ templates, AI agents, video generation)
+- ⚡ GPU-accelerated systems (CUDA-WASM integration, local LLM inference)
+- 💾 Advanced memory systems and embedded device development
 
----
+### 📫 Connect With Me
 
-## Domain Expertise
-
-**Building Systems**: BACnet · Modbus · BMS · HVAC · MEP Integration · Control
-Systems
-
-**AI/ML**: GraphRAG · LLM Safety · Prompt Engineering · Claude · Cursor · n8n
-Automation
-
-**Embedded**: Microcontrollers · Real-time Systems · Firmware · ARM64
-Optimization
-
-**Engineering**: BIM · DFMA/MMC · Data Centre Infrastructure · Project
-Commissioning
+- �� Website: [ccvs.tech](https://www.ccvs.tech)
+- 💼 LinkedIn: [Hristo Hristov](https://www.linkedin.com/in/hristo-hristov-93868648)
+- 📍 Location: London, United Kingdom
+- 📂 Portfolio: [Repository Index](https://github.com/hah23255/Repository-Index)
 
 ---
 
-## Stats
+⭐️ **Engineering Director** passionate about fusing cutting-edge technologies with engineering excellence to achieve optimal results for critical infrastructure projects.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hah23255&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+**Professional memberships**: CEng (Chartered Engineer) | EUR ING (European Engineer)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hah23255&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
----
-
-## Current Focus
-
-- 🏗️ GraphRAG for AEC design management
-- 🛡️ LLM safety & security research
-- ⚡ GPU-accelerated inference (CUDA/WebAssembly)
-- 🔄 Workflow automation (n8n · 2,100+ templates)
-
----
-
-<sub>**CCVS TECH Ltd** · London, UK ·
-[Full Portfolio →](https://github.com/hah23255/Repository-Index)</sub>
-
-![Profile Views](https://komarev.com/ghpvc/?username=hah23255&color=58a6ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=hah23255&color=brightgreen&style=flat-square)
